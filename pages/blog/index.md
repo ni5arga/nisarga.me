@@ -1,6 +1,6 @@
 ---
-type: posts
-title: posts
+type: blog
+title: blog
 date: 2021-03-18
 ---
 
