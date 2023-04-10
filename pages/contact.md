@@ -1,6 +1,6 @@
 ---
 type: page
-title: Contact | Nisarga Adhikary
+title: Contact 
 date: 2023-03-05
 ---
 
