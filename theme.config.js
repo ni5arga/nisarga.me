@@ -7,7 +7,7 @@ const SECOND = now.getSeconds();
 export default {
   footer: (
     <small style={{ display: 'block', marginTop: '8rem' }}>
-      <date> ⏰{HOUR}:{MINUTE} 📍New Delhi, India </date> 
+      <date> ⏰ {HOUR}:{MINUTE} 📍 New Delhi, India </date> 
      <a href="https://github.com/ni5arga/nisarga.me/">Source Code</a> 
 
 
