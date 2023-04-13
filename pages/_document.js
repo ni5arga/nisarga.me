@@ -7,12 +7,6 @@ export default function Document() {
     image: 'https://avatars.githubusercontent.com/u/45588772?v=4'
   }
 
-  const YEAR = new Date().getFullYear()
-const now = new Date();
-const HOUR = now.getHours();
-const MINUTE = now.getMinutes();
-const SECOND = now.getSeconds();
-
   return (
     <Html lang="en">
       <Head>
