@@ -1,5 +1,5 @@
 # nisarga.me
-This is my personal portfolio site, which can be found at [nisarga.me](https://nisarga.me). This has been built with the [Vercel NextJS Portfolio Starter Kit](https://github.com/vercel/nextjs-portfolio-starter)
+This is my personal portfolio site, which can be found at [nisarga.me](https://nisarga.me). This has been out of the [Vercel NextJS Portfolio Starter Kit](https://github.com/vercel/nextjs-portfolio-starter).
 
 ## Deploy your own
 
