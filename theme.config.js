@@ -1,4 +1,4 @@
-const YEAR = new Date().getFullYear()
+const YEAR = new Date().getFullYear();
 const now = new Date();
 const HOUR = now.getHours();
 const MINUTE = now.getMinutes();
