@@ -2,9 +2,9 @@ import { Html, Head, Main, NextScript } from 'next/document'
 
 export default function Document() {
   const meta = {
-    title: 'usr/bin/ni5arga~$',
+    title: 'Nisarga Adhikary',
     description: 'Nisarga\'s personal site.',
-    image: 'https://i.pinimg.com/originals/f5/f2/74/f5f27448c036af645c27467c789ad759.gif'
+    image: 'https://images7.alphacoders.com/133/1330238.png'
   }
 
   return (
