@@ -3,7 +3,7 @@ import { Html, Head, Main, NextScript } from 'next/document'
 export default function Document() {
   const meta = {
     title: 'Nisarga Adhikary',
-    description: 'Nisarga\'s personal site.',
+    description: 'Nisarga Adhikary\'s personal site.',
     image: 'https://images7.alphacoders.com/133/1330238.png'
   }
 
