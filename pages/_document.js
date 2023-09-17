@@ -4,7 +4,7 @@ export default function Document() {
   const meta = {
     title: "Nisarga's Website",
     description: "Nisarga Adhikary's personal site",
-    image: 'https://media.tenor.com/_HufrrKY36YAAAAC/anime.gif'
+    image: 'https://c4.wallpaperflare.com/wallpaper/131/492/954/kimi-no-na-wa-makoto-shinkai-starry-night-comet-wallpaper-preview.jpg'
   }
   return (
     <Html lang="en">
