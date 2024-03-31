@@ -4,7 +4,7 @@ export default function Document() {
   const meta = {
     title: 'Nisarga Adhikary',
     description: 'Nisarga Adhikary\'s personal site.',
-    image: 'https://images7.alphacoders.com/133/1330238.png'
+    image: 'https://cdn.pixabay.com/photo/2022/12/01/04/40/backpacker-7628303_1280.jpg'
   }
 
   return (
