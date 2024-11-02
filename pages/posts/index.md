@@ -1,7 +1,7 @@
 ---
 type: posts
-title: Posts
+title: Blog
 date: 2021-03-18
 ---
 
-# Posts
+# Blog
