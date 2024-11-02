@@ -53,4 +53,3 @@ If someone wanted to totally screw up the platform/site they could just write a 
 
 You can read the developer's statement about the incident [here in his blog](https://namishh.me/blog/how-to-not-make-quiz/).
 
-[**-** ni5arga](https://github.com/ni5arga) ([website](https://nisarga.me) | [twitter](https://twitter.com/ni5arga) | [github](https://github.com/ni5arga))
