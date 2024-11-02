@@ -3,10 +3,7 @@ title: "How I hacked an ARG/Cryptic Hunt site"
 author: "ni5arga"
 date: '2023-10-03'
 description: hacking an ARG site
-tags:
-  - backend
-  - cybersecurity
-  - pentesting
+tag: hacks
 ---
 
 A friend of mine was organizing an ARG/Cryptic Hunt competition for his school's techfest/competition. He built the site/platform where the competition was being hosted all by himself. But it was buggy, really buggy and had a lot of vulnerabilities.
