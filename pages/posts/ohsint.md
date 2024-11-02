@@ -2,7 +2,7 @@
 title: "TryHackMe OhSINT Writeup"
 author: "Nisarga"
 date: '2024-07-04'
-tag: OhSINT
+tag: TryHackMe
 description: TryHackMe OhSINT room writeup
 ---
 
