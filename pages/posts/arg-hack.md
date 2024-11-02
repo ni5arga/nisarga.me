@@ -1,6 +1,6 @@
 ---
 title: "How I hacked an ARG/Cryptic Hunt site"
-author: "Nisarga"
+author: "[ni5arga](https://github.com/ni5arga/)"
 date: '2023-10-03'
 tags:
   - backend
