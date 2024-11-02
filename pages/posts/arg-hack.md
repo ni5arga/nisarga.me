@@ -56,6 +56,6 @@ if (generatedHash === storedHash) {
 
 If someone wanted to totally screw up the platform/site they could just write a script to constantly keep requesting the firestore db until he runs out cause he used that instead of mongo or something local.
 
-You can read the developer's official statement about the incident [here in his blog](https://namishh.me/blog/how-to-not-make-quiz/).
+You can read the developer's statement about the incident [here in his blog](https://namishh.me/blog/how-to-not-make-quiz/).
 
 [**-** ni5arga](https://github.com/ni5arga) ([website](https://nisarga.me) | [twitter](https://twitter.com/ni5arga) | [github](https://github.com/ni5arga))
