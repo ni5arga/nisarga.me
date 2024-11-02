@@ -29,7 +29,7 @@ Some guy on Discord leaked the ciphers which were used to cipher the answers mak
 
 He used [bcrypt](https://www.npmjs.com/package/bcryptjs) to hash the answers which was a temporary easy fix.
 
-```javascript 
+```js 
 const bcrypt = require('bcrypt');
 
 const storedSalt = "$2a$10$iwkIBgVZDdADUSLFewMBJu"; // random value, can be exposed
