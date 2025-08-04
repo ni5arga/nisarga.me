@@ -9,23 +9,19 @@ export default function Document() {
     keywords: 'nisarga, ni5arga, nisarga adhikary, nisarga portfolio, ni5arga site, software engineer, CTF, open source'
   };
 
-  const structuredData = {
-    '@context': 'https://schema.org',
-    '@type': 'Person',
-    name: 'Nisarga Adhikary',
-    url: meta.url,
-    sameAs: [
-      'https://github.com/ni5arga',
-      'https://twitter.com/ni5arga',
-      'https://www.linkedin.com/in/ni5arga/'
-    ],
-    jobTitle: 'Software Engineer',
-    worksFor: {
-      '@type': 'Organization',
-      name: 'Independent'
-    }
-  };
-
+const structuredData = {
+  '@context': 'https://schema.org',
+  '@type': 'Person',
+  name: 'Nisarga Adhikary',
+  url: 'https://nisarga.me',
+  sameAs: [
+    'https://github.com/ni5arga',
+    'https://twitter.com/ni5arga',
+    'https://www.linkedin.com/in/ni5arga/'
+  ],
+  jobTitle: 'Softare Engineer'
+};
+  
   return (
     <Html lang="en">
       <Head>
