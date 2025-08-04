@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://nisarga.me/</loc>
+  <lastmod>2025-08-04T20:07:37+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://nisarga.me/about</loc>
+  <lastmod>2025-08-04T20:07:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nisarga.me/contact</loc>
+  <lastmod>2025-08-04T20:07:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nisarga.me/posts</loc>
+  <lastmod>2025-08-04T20:07:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nisarga.me/posts/ohsint</loc>
+  <lastmod>2025-08-04T20:07:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nisarga.me/posts/arg-hack</loc>
+  <lastmod>2025-08-04T20:07:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nisarga.me/tags/TryHackMe</loc>
+  <lastmod>2025-08-04T20:07:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://nisarga.me/tags/hacks</loc>
+  <lastmod>2025-08-04T20:07:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
+</urlset>
