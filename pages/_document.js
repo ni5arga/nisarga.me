@@ -19,7 +19,7 @@ const structuredData = {
     'https://twitter.com/ni5arga',
     'https://www.linkedin.com/in/ni5arga/'
   ],
-  jobTitle: 'Softare Engineer'
+  jobTitle: 'Software Engineer'
 };
   
   return (
